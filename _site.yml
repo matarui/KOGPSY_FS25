@@ -1,7 +1,7 @@
-name: "KOGPSY"
-title: "KOGPSY"
+name: "KOGPSY II"
+title: "KOGPSY II"
 description: |
-  KOGPSY
+  KOGPSY II
 output_dir: "docs"
 navbar:
   logo:
