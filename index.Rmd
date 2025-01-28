@@ -34,19 +34,17 @@ Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at
 |---| ---------|-------------------------------|--------| ------- |
 | 1 | 18.02.2025 | Session 1: Introduction | [pdf](index.html) | Mata |
 | 2 | 25.02.2025 | Session 2: TBD | [pdf](index.html) | Mata |
-| 3 | 04.03.2025 | Session 3: TBD | [pdf](index.html)  | Mata |
-| 4 | 18.03.2025 | Session 4: TBD | [pdf](index.html) | Mata |
-| 5 | 25.03.2025 | Session 5: TBD | [pdf](index.html) | Mata |
-| 6 | 01.04.2025 | Session 6: TBD | [pdf](index.html) | Mata |
-| 7 | 08.04.2025 | Session 7: TBD | [pdf](index.html) | Mata |
-| 8 | 15.04.2025 | Session 8: TBD | [pdf](index.html) | Mata |
-| 9 | 22.04.2025 | Session 9: TBD | [pdf](index.html) | Mata |
-|10 | 29.04.2025 | Session 10: TBD | [pdf](index.html)  | Mata |
-|11 | 06.05.2025 | Session 11: TBD | [pdf](index.html) | Mata |
-|12 | 13.05.2025 | Session 12: TBD | [pdf](index.html)  | Mata |
-|13 | 20.05.2025 | Session 13: TBD | [pdf](index.html) | Mata |
-|14 | 03.06.2025 | Exam (DSBG Neubau) |  |  |
-|15 | 03.06.2025 | Repeat Exam (Biozentrum)|  |  |
+| 3 | 18.03.2025 | Session 4: TBD | [pdf](index.html) | Mata |
+| 4 | 25.03.2025 | Session 5: TBD | [pdf](index.html) | Mata |
+| 5 | 01.04.2025 | Session 6: TBD | [pdf](index.html) | Mata |
+| 6 | 08.04.2025 | Session 7: TBD | [pdf](index.html) | Mata |
+| 7 | 15.04.2025 | Session 8: TBD | [pdf](index.html) | Mata |
+| 8 | 29.04.2025 | Session 10: TBD | [pdf](index.html)  | Mata |
+| 9 | 06.05.2025 | Session 11: TBD | [pdf](index.html) | Mata |
+| 10 | 13.05.2025 | Session 12: TBD | [pdf](index.html)  | Mata |
+|11 | 20.05.2025 | Session 13: TBD | [pdf](index.html) | Mata |
+|12 | 03.06.2025 | Exam (DSBG Neubau) |  |  |
+|13 | 03.06.2025 | Repeat Exam (Biozentrum)|  |  |
 :::
 
 # What is this course about?
