@@ -37,7 +37,7 @@ Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at
 | 3 | 18.03.2025 | Emotion: Neural bases | [pdf](presentations/KOGPSYII_session3.pdf)  | Tisdall |
 | 4 | 25.03.2025 | Emotion: Regulation | [pdf](presentations/KOGPSYII_session4.pdf)  | Mata |
 | 5 | 01.04.2025 | Emotion: Well-being | [pdf](presentations/KOGPSYII_session5.pdf)  | Mata |
-| 6 | 08.04.2025 | Motivation: What is motivation? |  | Mata |
+| 6 | 08.04.2025 | Motivation: What is motivation? | [pdf](presentations/KOGPSYII_session6.pdf)  | Mata |
 | 7 | 15.04.2025 | Motivation: Extrinsic vs intrinsic motivation |  | Mata |
 | 8 | 29.04.2025 | Motivation: Neural bases |   | Tisdall |
 | 9 | 06.05.2025 | Motivation: Cooperation and morality |  | Theisen |
