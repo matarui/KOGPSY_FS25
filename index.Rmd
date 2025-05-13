@@ -40,8 +40,8 @@ Please note that the **Exam** takes place on 03.06.2025, from	08.00 to 10.00, at
 | 6 | 08.04.2025 | Motivation: What is motivation? | [pdf](presentations/KOGPSYII_session6.pdf)  | Mata |
 | 7 | 15.04.2025 | Motivation: Extrinsic vs intrinsic motivation | [pdf](presentations/KOGPSYII_session7.pdf) | Mata |
 | 8 | 29.04.2025 | Motivation: Neural bases | [pdf](presentations/KOGPSYII_session8.pdf)   | Tisdall |
-| 9 | 06.05.2025 | Motivation: Cooperation and morality |  | Theisen |
-| 10 | 13.05.2025 | Applications |   | Mata |
+| 9 | 06.05.2025 | Motivation: Cooperation and morality | [pdf](presentations/KOGPSYII_session9.pdf)  | Theisen |
+| 10 | 13.05.2025 | Applications |  [pdf](presentations/KOGPSYII_session10.pdf)  | Mata |
 | 11 | 20.05.2025 | Wrap-up and Q&A |  | Mata |
 | 12 | 03.06.2025 | Exam (DSBG Neubau) |  |  |
 | 13 | 21.07.2025 | Repeat Exam (Biozentrum)|  |  |
